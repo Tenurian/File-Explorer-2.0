@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileExplorerConsole", "FileExplorerConsole\FileExplorerConsole.csproj", "{B5C196B2-4FD2-485D-9159-5F0CE7455285}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileExplorer", "FileExplorer\FileExplorer.csproj", "{432313AC-EB41-414F-8AA8-EB07B3F25FB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiggerLibrary", "DiggerLibrary\DiggerLibrary.csproj", "{F89EF275-5946-4D8B-A553-D9862B6A60FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5C196B2-4FD2-485D-9159-5F0CE7455285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5C196B2-4FD2-485D-9159-5F0CE7455285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5C196B2-4FD2-485D-9159-5F0CE7455285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5C196B2-4FD2-485D-9159-5F0CE7455285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{432313AC-EB41-414F-8AA8-EB07B3F25FB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{432313AC-EB41-414F-8AA8-EB07B3F25FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{432313AC-EB41-414F-8AA8-EB07B3F25FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{432313AC-EB41-414F-8AA8-EB07B3F25FB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F89EF275-5946-4D8B-A553-D9862B6A60FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F89EF275-5946-4D8B-A553-D9862B6A60FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F89EF275-5946-4D8B-A553-D9862B6A60FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F89EF275-5946-4D8B-A553-D9862B6A60FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

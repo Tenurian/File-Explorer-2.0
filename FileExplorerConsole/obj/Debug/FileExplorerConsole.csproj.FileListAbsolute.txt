@@ -1,0 +1,8 @@
+c:\users\tenurian\documents\visual studio 2015\Projects\FileExplorerConsole\FileExplorerConsole\bin\Debug\FileExplorerConsole.exe.config
+c:\users\tenurian\documents\visual studio 2015\Projects\FileExplorerConsole\FileExplorerConsole\bin\Debug\FileExplorerConsole.exe
+c:\users\tenurian\documents\visual studio 2015\Projects\FileExplorerConsole\FileExplorerConsole\bin\Debug\FileExplorerConsole.pdb
+c:\users\tenurian\documents\visual studio 2015\Projects\FileExplorerConsole\FileExplorerConsole\obj\Debug\FileExplorerConsole.exe
+c:\users\tenurian\documents\visual studio 2015\Projects\FileExplorerConsole\FileExplorerConsole\obj\Debug\FileExplorerConsole.pdb
+c:\users\tenurian\documents\visual studio 2015\Projects\FileExplorerConsole\FileExplorerConsole\bin\Debug\DiggerLibrary.dll
+c:\users\tenurian\documents\visual studio 2015\Projects\FileExplorerConsole\FileExplorerConsole\bin\Debug\DiggerLibrary.pdb
+c:\users\tenurian\documents\visual studio 2015\Projects\FileExplorerConsole\FileExplorerConsole\obj\Debug\FileExplorerConsole.csprojResolveAssemblyReference.cache
